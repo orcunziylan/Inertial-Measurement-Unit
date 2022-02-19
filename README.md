@@ -1,4 +1,4 @@
-Bachelor's thesis 2017
+# Bachelor's thesis 2017
 
 PROTOTYPING OF AN IMU (Inertial Measurement Unit) FOR AN UNDERWATER ROBOTIC APPLICATION
 
