@@ -2,7 +2,7 @@
 
 Bachelor's Thesis - 2017
 
-Welcome to the repository for my Bachelor's thesis project conducted in 2017. This project focuses on the prototyping of an Inertial Measurement Unit (IMU) tailored for underwater robotic applications. The primary objective is to fuse data from an accelerometer, a gyroscope, and a magnetometer using the Kalman filter to determine the orientation and position of the underwater robot accurately.
+Welcome to the repository for my Bachelor's thesis project conducted in 2017. This project focuses on the prototyping of an Inertial Measurement Unit (IMU) tailored for underwater robotic applications. 
 
 ## Overview
 
