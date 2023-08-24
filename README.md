@@ -10,6 +10,6 @@ In this project, I explore the integration of sensor measurements to achieve pre
 
 ## Tested on Kuka Agilus
 
-The developed IMU prototype was tested on the Kuka Agilus robotic platform. This testing phase allowed me to validate the effectiveness of the sensor fusion technique in a real-world scenario.
+The developed IMU prototype was tested on the Kuka Agilus robotic platform. This testing phase allowed us to validate the effectiveness of the sensor fusion technique in a real-world scenario.
 
 ![IMU Prototype in Action](https://user-images.githubusercontent.com/55997117/154798982-fd5015e7-82e4-49bd-89d0-16d40e0ad3f6.gif)
